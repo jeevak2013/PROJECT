@@ -14,8 +14,8 @@ db_lock = threading.Lock()
 
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
-API_KEY = 'AIzaSyAchxjMflU8o1BSlpeSCD3yd-k95qrWgmU'
-mongodb_connection_string = 'mongodb+srv://guvi:guvi1234@guvi.kv1fpcn.mongodb.net/?retryWrites=true&w=majority'
+API_KEY = "YOUR API"
+mongodb_connection_string = "YOUR CONNECTION STRING"
 channel_titles = []
 
 def get_authenticated_service():
