@@ -34,10 +34,6 @@ This Python project enables you to collect, store, and analyze data from multipl
 - `sqlite3`: For SQLite database handling.
 - `pandas`, `matplotlib`, `streamlit`: Data visualization and web interface.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - YouTube Data API Documentation: https://developers.google.com/youtube/registering_an_application
